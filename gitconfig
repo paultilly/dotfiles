@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = paul.tilly88@gmail.com
+	name = Paul Tilly
